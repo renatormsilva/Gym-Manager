@@ -1,5 +1,5 @@
 # Gym-Manager
-Controle de academia 
+Sistema para controle de academia e personal trainers
 
 ## :rocket: Tecnologias
 
