@@ -1,0 +1,12 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://google.com",
+      "name": "teste",
+      "birth": 1043452800000,
+      "gender": "M",
+      "services": "123",
+      "created_at": 1605198685864
+    }
+  ]
+}
